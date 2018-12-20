@@ -1,5 +1,7 @@
 # baethon-logo
-SVG sources of logo
 
-# about author
-Author of the logo is Nina Przybyłowska.
+Graphic sources of company logo.
+
+# credits
+
+Logo was generated with [Logaster](http://logaster.com/).
